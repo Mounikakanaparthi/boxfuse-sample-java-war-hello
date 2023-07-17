@@ -8,7 +8,6 @@ Boxfuse Sample Hello World Java application packaged as a war file
 - Git
 - Java
 - Maven
-- VirtualBox
 - Boxfuse
 
 ## Running
